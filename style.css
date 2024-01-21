@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,600;1,100;1,200;1,300&display=swap');
+body {
+    background-image: url("desert.png");
+    background-size: cover; /* or "contain" depending on your preference */
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    align-items: center; /* This property is typically used with flex containers, not needed for text */
+    font-size: 80px;
+    font-weight: bolder;
+    margin-top: 18%;
+    color: white;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+.LOGO{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border: none;
+    margin-left: 12px;
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+
+}
+.HOME{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 80px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: bold;   
+    cursor: pointer;
+    margin-left: 64%;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    
+}
+.ABOUT{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 80px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 25px;
+    margin-left: 27px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+
+}
+.WORK{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(255, 248, 248);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 80px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 15px;
+    margin-left: 27px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+.CONTACT{
+    background-color: transparent;
+    color:black;
+    border-style: solid;
+    border-color: rgb(255, 247, 247);
+    border-radius: 20px;
+    border-width: 2px;
+    width: 80px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+     box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    margin-left: 23px;
+
+}
